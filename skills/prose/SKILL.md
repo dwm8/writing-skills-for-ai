@@ -2,7 +2,7 @@
 name: prose
 metadata:
   version: "2.2"
-description: "Universal writing rules for anything Codex writes for a person to read: replies, explanations, documents, messages, summaries, plans. Removes the constructions that make prose read as machine-generated, by substituting a better move rather than banning a phrase. Covers manufactured claims, contrastive constructions, figuration and verb inflation, unresolved referents, unearned compression, rhythm, and mechanical tells. Apply by default to all writing, even when the user does not mention these rules."
+description: "Apply by default to all writing for people. Improve factual grounding, clarity, phrasing, rhythm, and mechanics by replacing formulaic contrasts, inflated language, unnecessary metaphors, and overcompressed prose with better choices."
 ---
 
 Apply to all person-facing writing. Replace habits, not banned words.
