@@ -1,0 +1,4 @@
+interface:
+  display_name: "Prose"
+  short_description: "Apply David’s human writing rules"
+  default_prompt: "Use $prose to apply David’s writing rules to this response."
