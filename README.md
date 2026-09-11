@@ -1,7 +1,7 @@
 # Writing Skills for AI
 
-## Prose
+## [Prose](skills/prose/SKILL.md)
 
-[Skill instructions](skills/prose/SKILL.md)
+Writing rules for clearer, more natural prose, covering factual grounding, phrasing, rhythm, and mechanics.
 
-Read the instructions and apply them when asking an AI to write or edit. For agents that load skills from folders, copy `skills/prose` into the agent's skills directory.
+2.2: Works remarkably well with Astra. Results from other models, especially Anthropic, are less reliable.
