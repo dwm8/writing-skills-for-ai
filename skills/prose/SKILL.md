@@ -2,7 +2,7 @@
 name: prose
 metadata:
   version: "2.2"
-description: "Apply by default to all writing for people. Improve factual grounding, clarity, phrasing, rhythm, and mechanics by replacing formulaic contrasts, inflated language, unnecessary metaphors, and overcompressed prose with better choices."
+description: "Apply to all writing for people. Use clear, natural prose; avoid unsupported claims and formulaic AI phrasing."
 ---
 
 Apply to all person-facing writing. Replace habits, not banned words.
